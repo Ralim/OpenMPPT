@@ -1,0 +1,38 @@
+# substring serach	[tab]	replacement
+
+0402						0402
+0603						0603
+0805						0805
+1206						1206
+2512						2512
+
+TQFP-16						TQFP-16
+TQFP-20						TQFP-20
+TQFP-24						TQFP-24
+TQFP-32						TQFP-32
+
+SOT-23						SOT-23
+SOT765-1					SOT-765-1
+
+SOD-123						SOD-123
+
+SSOP-14						SSOP-14
+SSOP-16						SSOP-16
+SSOP-18						SSOP-18
+SSOP-20						SSOP-20
+SSOP-24						SSOP-24
+SSOP-28						SSOP-28
+
+QFN-8						QFN-8
+QFN-16						QFN-16
+QFN-20						QFN-20
+QFN-24						QFN-24
+QFN-32						QFN-32
+QFN-48						QFN-48
+QFN-64						QFN-64
+
+Measurement_Point			no part
+SMD_pads					no part
+SMD-pad						no part
+
+QC6CB_7A_ABM7				QC6CB/7A/ABM7 crystals

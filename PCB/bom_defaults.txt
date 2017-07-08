@@ -1,0 +1,39 @@
+# designator
+# long name
+# default type
+
+R
+Resistors
+1%
+
+C
+Capacitors
+X7R/X5R, 16V
+
+D
+Diodes
+N/A
+
+U
+Integrated Circuits
+N/A
+
+Y
+Crystals
+N/A
+
+L
+Inductors
+N/A
+
+Q
+Transistors
+N/A
+
+BT
+Batteries
+N/A
+
+J
+Connectors
+N/A
